@@ -4,6 +4,5 @@ class Hello
 	 {
 				System.out.println("hello para master!");
 				System.out.println("hello for the second time");
-					
 	 }
 }
